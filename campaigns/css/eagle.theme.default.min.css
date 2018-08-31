@@ -1,0 +1,6 @@
+/**
+ * eagle Carousel v2.2.1
+ * Copyright 2013-2017 David Deutsch
+ * Licensed under  ()
+ */
+.eagle-theme .eagle-dots,.eagle-theme .eagle-nav{text-align:center;-webkit-tap-highlight-color:transparent}.eagle-theme .eagle-nav{margin-top:10px}.eagle-theme .eagle-nav [class*=eagle-]{color:#FFF;font-size:14px;margin:5px;padding:4px 7px;background:#D6D6D6;display:inline-block;cursor:pointer;border-radius:3px}.eagle-theme .eagle-nav [class*=eagle-]:hover{background:#869791;color:#FFF;text-decoration:none}.eagle-theme .eagle-nav .disabled{opacity:.5;cursor:default}.eagle-theme .eagle-nav.disabled+.eagle-dots{margin-top:10px}.eagle-theme .eagle-dots .eagle-dot{display:inline-block;zoom:1}.eagle-theme .eagle-dots .eagle-dot span{width:10px;height:10px;margin:5px 7px;background:#D6D6D6;display:block;-webkit-backface-visibility:visible;transition:opacity .2s ease;border-radius:30px}.eagle-theme .eagle-dots .eagle-dot.active span,.eagle-theme .eagle-dots .eagle-dot:hover span{background:#869791}
